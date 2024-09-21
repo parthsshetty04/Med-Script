@@ -23,7 +23,7 @@ The Medicine Prescription Analyzer is an advanced tool designed to streamline th
 1. Clone the repository:
    ```bash
    git clone https://github.com/parthsshetty04/Med-Script
-   cd medicine-prescription-analyzer
+   cd Med-Script
    ```
 
 2. Set up a virtual environment:
