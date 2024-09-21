@@ -1,0 +1,56 @@
+Ingredient,ASTAG_Rating,Route
+amoxycillin,Low,Systemic
+amoxycillin clavulanate,Medium,Systemic
+ampicillin,Low,Systemic
+azithromycin,Low,Systemic
+cefazolin,Medium,Systemic
+cefotaxime,High,Systemic
+cefovecin,High,Systemic
+cefoxitin,Medium,Systemic
+ceftazidime,High,Systemic
+cephalexin,Medium,Systemic
+cephalexin sodium,Medium,Systemic
+cephalothin,Medium,Systemic
+chloramphenicol,Low,Systemic
+chloramphenicol,Low,Topical
+ciprofloxacin hydrochloride,High,Systemic
+clindamycin hydrochloride,Medium,Systemic
+cloxacillin,Medium,Topical
+doxycycline,Low,Systemic
+enrofloxacin,High,Systemic
+enrofloxacin,High,Topical
+erythromycin,Low,Systemic
+framycetin,Low,Topical
+"framycetin, gramicidin",Low,Topical
+fusidic acid,High,Topical
+"fusidic acid, framycetin",High,Topical
+gentamicin,Medium,Systemic
+gentamicin,Medium,Topical
+lincomycin,Medium,Systemic
+marbofloxacin,High,Systemic
+marbofloxacin,High,Topical
+metronidazole,Medium,Systemic
+mupirocin,Medium,Topical
+neomycin,Low,Systemic
+neomycin,Low,Topical
+neomycin (multi-ingredient [without polymixin]),Low,Topical
+"neomycin, nitrofurazone",Low,Topical
+nitrofurantoin,High,Systemic
+ofloxacin,High,Topical
+oxytetracycline,Low,Systemic
+phthalylsulfathiazole,Low,Systemic
+polymixin b,High,Topical
+polymyxin (multi-ingredient),High,Topical
+pradofloxacin,High,Systemic
+procaine penicillin,Low,Systemic
+rifampin,High,Systemic
+ronidazole,Medium,Systemic
+spiramycin,Low,Systemic
+streptomycin,Low,Systemic
+ticarcillin clavulanate,High,Systemic
+tobramycin,Medium,Systemic
+tobramycin,Medium,Topical
+trimethoprim sulfadiazine,Medium,Systemic
+trimethoprim sulfadimidine,Medium,Systemic
+trimethoprim sulfadoxine,Medium,Systemic
+tylosin,Low,Systemic
